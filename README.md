@@ -1,2 +1,2 @@
 # Module-3-Challenge
-The challenge for Module 3
+This Password Generator was created to randomly generate a password that meets certain criteria so that you have greater security.
